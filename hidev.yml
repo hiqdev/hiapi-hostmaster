@@ -1,0 +1,5 @@
+package:
+    type:         yii2-extension
+    name:         hiapi-hostmaster
+    title:        HiAPI HostMaster
+    keywords:     hiapi, hostmaster
