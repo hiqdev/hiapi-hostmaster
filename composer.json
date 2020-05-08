@@ -44,5 +44,11 @@
     "require-dev": {
         "hiqdev/hidev-php": "dev-master",
         "hiqdev/hidev-hiqdev": "dev-master"
+    },
+    "extra": {
+        "config-plugin": {
+            "params": "config/params.php",
+            "common": "config/common.php"
+        }
     }
 }
